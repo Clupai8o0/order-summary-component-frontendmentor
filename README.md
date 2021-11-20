@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://clupai8o0.github.io/order-summary-component-frontendmentor/)
+- Live Site URL: [Live site](https://clupai8o0.github.io/order-summary-component-frontendmentor/)
 
 ## My process
 
