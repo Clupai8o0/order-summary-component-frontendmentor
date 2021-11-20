@@ -46,4 +46,4 @@ Users should be able to:
 
 ## Author
 
-- Github - [Clupai8o0](https://www.github.com/Clupai8o0)****
+- Github - [Clupai8o0](https://www.github.com/Clupai8o0)
